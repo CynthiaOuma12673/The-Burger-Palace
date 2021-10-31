@@ -173,4 +173,8 @@ header {
     width: 50vw;
 
 } 
+.contact {
+    display: flex;
+    width: 30vw;
+}
 
