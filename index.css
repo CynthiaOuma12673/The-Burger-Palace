@@ -169,4 +169,8 @@ header {
 .menucontent {
     display: flex;
 }
-    
+   .menu1 {display: flex;
+    width: 50vw;
+
+} 
+
