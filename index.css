@@ -1,0 +1,99 @@
+header {
+    /* position: fixed; */
+    /* top: 0; left: 0; right: 0;
+    z-index: 1000;  */
+    display: flex;
+    /* align-items: center;
+    justify-content: space-between;
+    background: #fff;
+    padding: 5%; */
+}
+.logo {
+
+    margin-left: 1%;
+}
+.navitem {
+    padding: 10%;
+    margin-right: 10%;
+
+
+}
+.navbar {
+    width: 100%;
+    display: flex;
+    margin-right: 50%;
+
+}
+
+.homecontent {
+    display: flex;
+}
+.content1 {
+    width: 50vw;
+    height: 700px;
+    background-color: orange;
+    margin-right: 10%;
+}
+.button {
+    background-color: orange;
+}
+.mycards {
+    display: flex;
+    width: 100vw;}
+.home1 {float: right;
+    width: 30vw;
+    border: solid black;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /* Float four columns side by side */
+  .column {
+    float: left;
+    width: 25%;
+    padding: 5%;
+  }
+  
+  /* Remove extra left and right margins, due to padding in columns */
+  .row {margin: 0 -5px;
+    background-color: aliceblue;
+}
+
+  
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Style the counter cards */
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+  }
+    .our {
+        color: black;
+    }
+    .menu {color: orange;}
+    .ourmenu {
+        font-size: 50px;
+        text-decoration: underline orange;
+        width: 5vw;
+    }
+
+  
+    
+
+.menucontent {
+    display: flex;
+}
+    
