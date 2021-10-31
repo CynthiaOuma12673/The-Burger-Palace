@@ -176,5 +176,6 @@ header {
 .contact {
     display: flex;
     width: 30vw;
+    padding: 0;
 }
 
