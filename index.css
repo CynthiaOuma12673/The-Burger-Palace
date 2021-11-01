@@ -139,6 +139,7 @@ header {
       
       .row {margin: 0 -5px;
         background-color: aliceblue;
+        float: right;
     }
     
       .row:after {
