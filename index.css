@@ -30,6 +30,7 @@ header {
 
 .homecontent {
     display: flex;
+    background-color: aliceblue;
 }
 .content1 {
     width: 50vw;
@@ -92,7 +93,7 @@ header {
     
     .ourmenu {
         font-size: 50px;
-        text-decoration: underline: orange;
+        text-decoration: underline orange;
         width: 5vw;
       }
       
@@ -168,6 +169,8 @@ header {
     width: 100vw;
     float: left; padding: 30px;
     justify-items: stretch;
+    background-color: aliceblue;
+    padding: 10%;
 
 } 
 .contact {
@@ -180,4 +183,11 @@ header {
 .hom {
   text-decoration: underline orange;
 }
-    
+    .column2 {
+      background-color: aliceblue;
+    }
+    .landing1 {
+      background-color: aliceblue;
+      display: flex;
+      justify-content: space-between;
+    }
